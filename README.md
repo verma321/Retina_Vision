@@ -16,7 +16,7 @@ This project demonstrates how to make API calls to a hybrid classical-quantum ne
 
 ## Setting up the API
 
-1. Navigate to the 'hybrid-classical-quantum-neural-network-classifier' repository.
+1. Navigate to the `Inference using Flask API Folder` repository.
 2. Run the Flask API using the command: `python API_Fetching.py`
 3. Expose the API using ngrok: `ngrok http port_number`
 
