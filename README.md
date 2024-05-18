@@ -5,6 +5,8 @@ This app allows you to upload an eye image and uses a trained machine learning m
 
 This project demonstrates how to make API calls to a hybrid classical-quantum neural network classifier using an Android app. The app utilizes the Volley library to communicate with the API, which predicts whether an uploaded eye image is normal, severely diabetic, or mildly diabetic. The model is implemented using a Flask API (`API_Fetching.py`) and the trained classifier is saved as `final_model.pth`.
 
+Please Visit this link to access the Project Explanation video and other important files : [Visit this link](https://drive.google.com/drive/folders/1saN70VHPYtGextmYfZ0yII-fv-MMuDGC?usp=sharing)
+
 ## Repository Structure
 
 - **[hybrid-classical-quantum-neural-network-classifier](https://github.com/itstechaj/hybrid-classical-quantum-network-classifier):** This repository contains the Python code for the hybrid classical-quantum neural network classifier. 
